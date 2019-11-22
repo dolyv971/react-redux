@@ -18,7 +18,7 @@ npm install --save-dev react-dev-utils
 Source : **https://reacttraining.com/react-router/web/guides/quick-start**
 
 # Redux
-##Requirements
+## Requirements
 
 - Installation de redux. 
 
